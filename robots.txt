@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /legal.html
+
+Sitemap: https://veyloora.shop/sitemap.xml
